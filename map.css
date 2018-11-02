@@ -1,0 +1,25 @@
+#mapcontainer {
+  height: 520px;
+  width: 800px;
+  margin: 0 auto;
+  text-align:center;
+  line-height: 520px;
+}
+#date-select {
+  padding-top: 2%;
+  display: block;
+  margin:auto;
+}
+/* .date-sel {
+  background-color: #d9e6f2
+} */
+#buttonsControl {
+  padding-top: 1%;
+  display: block;
+  margin:auto;
+}
+#buttonsStopPlay {
+  padding-top: 1%;
+  display: block;
+  margin:auto;
+}
